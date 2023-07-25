@@ -1,3 +1,5 @@
 .history
 /.idea
 ls-lint
+tests/server/server
+tests/client/client
